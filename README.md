@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/Tulamechatronics/Applied_Mathematical/blob/main/Cover/optimal.jpg" alt="Github Bio" width=90%>
-</p>
-
 # Applied_Mathematical
 
 ## Optimization
