@@ -1,5 +1,7 @@
 # Applied_Mathematical
 
+## Optimization
+
 #### Linear Programming
      
    [Problem](https://docs.google.com/document/d/145ZE2ROviynli4JsHqq36wOsb8CWaniKgRa1vdcHD_I/edit?usp=sharing) `variable` `contrain` `objective` 
@@ -14,6 +16,17 @@
 ##### Solutions
      
 #### Algorithms Implement (Python 3)
+     1. Flowchart
+     2. pseudocode
+     3. Code
+
+
+## Further Study 
+### Courses
+
+### Youtube Videos
+
+### Interesting Projects Ideas
 
 
 
