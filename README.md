@@ -12,6 +12,10 @@
      2. The Shortest Path Problem
      3. The Equipment Replacement Problem
      4. Transportation/Assignment Problems
+##### Note
+    `objective` = `optimal cost`
+    `contrain` = `Node( supply - , demand + )`
+    `variable` = `Arcs`
 ##### Problems
 ##### Solutions
      
