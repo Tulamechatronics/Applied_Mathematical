@@ -13,9 +13,12 @@
      3. The Equipment Replacement Problem
      4. Transportation/Assignment Problems
 ##### Note
+
     `objective` = `optimal cost`
-    `contrain` = `Node( supply - , demand + )`
-    `variable` = `Arcs`
+     `contrain` = `Node( supply - , demand + )`
+     `variable` = `Arcs`
+    
+    
 ##### Problems
 ##### Solutions
      
