@@ -33,6 +33,8 @@
      1. Flowchart
      2. pseudocode
      3. Code
+###### Algorithm
+  * [Shortest Path](https://www.youtube.com/watch?v=7Fe12XVKoyQ)
 
 
 ## Further Study 
@@ -40,6 +42,8 @@
    * [MITx - 15.053x Optimization Methods in Business Analytics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+15.053x+3T2016/course/)
 
 ### Youtube Videos
+   * [excel course operation management](https://www.youtube.com/c/DecisionMaking101/playlists)
+   * []()
 
 ### Interesting Projects Ideas
   * [Link](http://web.mit.edu/15.053/www/projects.htm)
