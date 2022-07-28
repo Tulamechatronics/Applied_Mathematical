@@ -3,7 +3,7 @@
 
 ## Optimization
 
-#### Linear Programming
+#### 1. Linear Programming
      
    [Problem](https://docs.google.com/document/d/145ZE2ROviynli4JsHqq36wOsb8CWaniKgRa1vdcHD_I/edit?usp=sharing) `variable` `contrain` `objective` 
    <br>
@@ -13,7 +13,7 @@
 
 
 
-#### Network Modeling
+#### 2. Network Modeling
      1. Transshipment Problem
      2. The Shortest Path Problem
      3. The Equipment Replacement Problem
