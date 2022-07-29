@@ -50,13 +50,16 @@
 
 
 ## Further Study 
+### [Guide to Solver](https://www.solver.com/optimization-solutions-distribution-and-logistics-examples) 
+
+
 ### Courses
    * [MITx - 15.053x Optimization Methods in Business Analytics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+15.053x+3T2016/course/)
 
 ### Youtube Videos
    * [excel course operation management](https://www.youtube.com/c/DecisionMaking101/playlists) `Dynamic Decision Models and Monte-Carlo Simulation`
    * [operation research](https://www.youtube.com/playlist?list=PL9U1RaeyCt0zmJsIqreoiHw7fju5wnPdE)
-   * []()
+   * [Management Science](https://www.youtube.com/channel/UCZ9UGbQOk4-VZMUl4pV1H2A/videos)
 
 ### Interesting Projects Ideas
   * [Link](http://web.mit.edu/15.053/www/projects.htm)
