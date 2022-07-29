@@ -1,6 +1,8 @@
 
 # Applied_Mathematical
 
+## [Teaching Teaching & Understanding Understanding](https://www.youtube.com/playlist?list=PLUvh8nBV_eO9ma_DggZiSGLnKb9hBZ5yO) `Gem video 3 parts`
+
 ## Optimization
 
 #### 1. Linear Programming
@@ -47,7 +49,7 @@
    * [MITx - 15.053x Optimization Methods in Business Analytics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+15.053x+3T2016/course/)
 
 ### Youtube Videos
-   * [excel course operation management](https://www.youtube.com/c/DecisionMaking101/playlists)
+   * [excel course operation management](https://www.youtube.com/c/DecisionMaking101/playlists) `Dynamic Decision Models and Monte-Carlo Simulation`
    * [operation research](https://www.youtube.com/playlist?list=PL9U1RaeyCt0zmJsIqreoiHw7fju5wnPdE)
    * []()
 
