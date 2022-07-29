@@ -1,7 +1,9 @@
 
 # Applied_Mathematical
 
-## [Teaching Teaching & Understanding Understanding](https://www.youtube.com/playlist?list=PLUvh8nBV_eO9ma_DggZiSGLnKb9hBZ5yO) `Gem video 3 parts`
+## Learning && Teaching
+* [Teaching Teaching & Understanding Understanding](https://www.youtube.com/playlist?list=PLUvh8nBV_eO9ma_DggZiSGLnKb9hBZ5yO) `Gem video 3 parts`
+* [Constructive alignment and learning outcomes](https://www.youtube.com/watch?v=Xs4WLm0uC2k)
 
 ## Optimization
 
