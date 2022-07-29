@@ -18,6 +18,7 @@
 
 
 #### 2. Network Modeling
+##### [Example](https://www.youtube.com/watch?v=N_YFny65E44)
      1. Transshipment Problem
      2. The Shortest Path Problem
      3. The Equipment Replacement Problem
