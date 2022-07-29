@@ -32,11 +32,13 @@
 ##### Problems
 
   * [Toyota Case](https://docs.google.com/document/d/1AI09pXvTiA7XTzrWvmRNdHLphLtDGuVsuAt8G78TgFg/edit?usp=sharing)
-  * []()
+  * [ACA's shortest path problem]()
   * []()
   * []()
     
-##### Solutions
+##### Solutions (Excel - solver)
+  * []()
+  * []()
      
 #### Algorithms Implement (Python 3)
      1. Flowchart
